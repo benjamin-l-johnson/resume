@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1420559496 "cv_1.tex" "cv_1.pdf" "cv_1" 
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd" 1254151887 2109 c400bd6c901edc4a09e4d53fcffd3b3c ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1254151887 9042 248dfba326a1b8733d6bb8e0a3ac1e49 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1156702488 2266 7054435e4584a41cf53b0a7ca624d0cb ""
+  "/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty" 1156702453 1500 3c2647c8649928795ededd42a6e85f85 ""
+  "cv_1.aux" 1420559496 8 a94a2480d3289e625eea47cd1b285758 ""
+  "cv_1.tex" 1420559484 8887 ba02714edf7d4fbe12ed2d1558db2fdb ""
+  "res.cls" 1420559454 25066 8ec1e15ab4c53340bc92863668c7be49 ""
+  (generated)
+  "cv_1.log"
+  "cv_1.pdf"
